@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;700&display=swap');
+
+body {
+    font-family: 'El Messiri', sans-serif;
+    background-color: black;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+    background-color: a;
+}
+
+.menu-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.banner-content {
+    background-image: url(img/);
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 70px 0px 0px 0px;
+    background-position: center;
+    width: 100%;
+}
+
+.banner-content h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 140%;
+}
+
+.banner-content h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+}
+
+.perspect {
+    width: 526px;
+    border-radius: 10px;
+    height: 295px;
+}
+
+.us-content {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(2, 2, 2);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.us-title {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+
+}
+
+.us-content li {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 466px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.us {
+    background-color: white;
+}
+
+.fav {
+    width: 60px;
+    border-radius: 20px;
+}
+
+.sale {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 40px 0px 0px 0px;
+}
+
+.sale-tarifs li {
+    margin: 0px 0px 40px 0px;
+}
+
+.sale-title {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+
+}
+
+.cosmo {
+    width: 600px;
+}
+
+.cr {
+    color: white;
+}
+
+.don {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.VK {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+}
+
+.s {
+    color: black;
+    font-size: 18px;
+}
